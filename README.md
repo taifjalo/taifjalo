@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║      T A I F   J A L O  —  Software Engineering Student  ║
-║      Learning fast. Solving problems. real-world impact. ║
+║      Learning fast. Solving problems. Improving daily.   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
