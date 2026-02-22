@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║      T A I F   J A L O  —  Software Engineering         ║
+║      T A I F   J A L O  —  Software Engineering          ║
 ║      Building systems that scale. Breaking nothing.      ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
