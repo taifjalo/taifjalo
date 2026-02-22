@@ -4,7 +4,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║      T A I F   J A L O  —  Software Engineering Student  ║
-║      Building systems that scale. Breaking nothing.      ║
+║      Learning fast. Solving problems. real-world impact. ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -22,11 +22,11 @@ name: Taif Jalo
 role: Software Engineering Student (B.Eng.)
 university: Metropolia University of Applied Sciences
 location: Espoo, Finland
-focus: DevOps · CI/CD · Embedded Systems · Cloud
+focus: DevOps · CI/CD · Embedded Systems · Cloud · Data & Algorithms
 status: Open to Summer Trainee positions 🚀
 ```
 
-I build software systems with a strong emphasis on **reliability, automation, and clean delivery pipelines**. Currently deepening my knowledge in embedded software and space-grade systems.
+I build software systems with a strong emphasis on **reliability, automation, and clean delivery pipelines**. Currently deepening my knowledge in building real world software systems.
 
 ---
 
