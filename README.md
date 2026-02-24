@@ -60,6 +60,7 @@ C#/C++  █████████████░░░░░░  JavaScript/Ty
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| 📅 [Robot task Execution engine System](https://github.com/taifjalo/real-time-task-executor) | C++ | Real-time execution engine simulating |
 | 📅 [Student Timetable System](https://github.com/taifjalo/student-timetable-management-system) | Java | Management system with OOP design |
 | 🔧 [System Simulation](https://github.com/taifjalo/system-simulation) | Java | Discrete event system simulation |
 | 🍕 [Pizzeria Web](https://github.com/taifjalo/pizzeria-project) | JavaScript, Node.js | Full-stack web application with REST API |
