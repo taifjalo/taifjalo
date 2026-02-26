@@ -22,7 +22,7 @@ name: Taif Jalo
 role: Software Engineering Student (B.Eng.)
 university: Metropolia University of Applied Sciences
 location: Espoo, Finland
-focus: DevOps · CI/CD · Embedded Systems · Cloud · Data & Algorithms
+focus: DevOps · CI/CD · Engine Systems · Cloud · Data & Algorithms
 status: Open to Summer Trainee positions 🚀
 ```
 
@@ -64,7 +64,7 @@ C#/C++  █████████████░░░░░░  JavaScript/Ty
 | 📅 [Student Timetable System](https://github.com/taifjalo/student-timetable-management-system) | Java | Management system with OOP design |
 | 🔧 [System Simulation](https://github.com/taifjalo/system-simulation) | Java | Discrete event system simulation |
 | 🍕 [Pizzeria Web](https://github.com/taifjalo/pizzeria-project) | JavaScript, Node.js | Full-stack web application with REST API |
-| ✈️ [Airport Game](https://github.com/taifjalo/airport-game) | JavaScript | Interactive simulation game |
+| ✈️ [Airport Game](https://github.com/taifjalo/airport-game) | Python, JavaScript | Interactive simulation game |
 | 🍔 [Foodly Mobile App](https://github.com/taifjalo/foodly-mobile-app) | Dart/Flutter | Cross-platform mobile application |
 | 🌐 [Full Stack Project](https://github.com/taifjalo/fullstackproject) | JavaScript | Full-stack web development |
 
