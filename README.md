@@ -22,7 +22,7 @@ name: Taif Jalo
 role: Software Engineering Student (B.Eng.)
 university: Metropolia University of Applied Sciences
 location: Espoo, Finland
-focus: DevOps · CI/CD · Engine Systems · Cloud · Data & Algorithms
+focus: DevOps · CI/CD · RTOS · Cloud · Data & Algorithms
 status: Open to Summer Trainee positions 🚀
 ```
 
