@@ -73,10 +73,12 @@ C#/C++  █████████████░░░░░░  JavaScript/Ty
 ## `> certifications --list`
 
 ```
-[2024] Microsoft Azure Fundamentals (AZ-900)  ──  Cloud concepts & Azure services
-[2024] Unix/Linux Basics & Advanced           ──  Administration & networking  
-[2024] Cisco CCNA Training Package            ──  Networking & device config
-[2024] Ethical Hacking                        ──  Penetration testing & vulnerabilities
+[2026] Cisco C++ Programming - a Comprehensive Treatment  ──  Core structures of programming, the development of efficient programs.".
+[2026] Cisco DevNet                                       ──  Network programmability and the use of APIs
+[2024] Microsoft Azure Fundamentals (AZ-900)              ──  Cloud concepts & Azure services
+[2024] Unix/Linux Basics & Advanced                       ──  Administration & networking  
+[2024] Cisco CCNA Training Package                        ──  Networking & device config
+[2024] Ethical Hacking                                    ──  Penetration testing & vulnerabilities
 ```
 
 ---
